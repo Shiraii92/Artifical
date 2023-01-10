@@ -53,7 +53,7 @@
             <img
               data-aos="fade-up"
               data-aos-once="true"
-              href="https://lovepik.com/images/png-intelligence.html">
+              :src="require('~/assets/img/logo/robot.png')"
               class="-mt-4"
               alt=""
             />
