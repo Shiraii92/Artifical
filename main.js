@@ -5,7 +5,7 @@ import './assets/tables.scss'
 
 import Vue from 'vue'
 import VueParticles from './vue-particles'
-import App from './App'
+import App from './index'
 
 
 Vue.use(VueParticles)
