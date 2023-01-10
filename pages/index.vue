@@ -1,5 +1,5 @@
 <template>
-  <div 
+  <div id="app"
   class="w-full">
     <!-- Hero section -->
     <section id="hero" class="md:justify-end flex flex-col justify-center pt-20 pb-8 lg:overflow-hidden relative mb-20">
