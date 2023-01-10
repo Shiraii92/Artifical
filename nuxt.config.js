@@ -26,6 +26,7 @@ export default {
   build: {
     postcss: {
       plugins: {
+        src:"~plugins/vue-particles",ssr:false,
         tailwindcss: {},
         autoprefixer: {},
       },
