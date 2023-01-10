@@ -66,6 +66,7 @@
     <section
       class="max-w-screen-xl mx-50 sm:mx-auto px-50 sm:px-50 lg:px-50 py-6 pb-50 sm:py-8 rounded-[2.25rem] sm:rounded-xl bg-white shadow-lg sm:shadow-md transform lg:-translate-y-12"
     >
+    <BaseSection>
       <div class="w-full flex flex-col lg:flex-row items-center justify-center">
         <LandingCryptoStatistic
           data-aos="fade-up"
@@ -88,6 +89,7 @@
           class="lg:px-8"
         />
       </div>
+      </BaseSection>
     </section>
 
     <!-- Buy and trade section -->
