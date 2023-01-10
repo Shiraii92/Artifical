@@ -6,10 +6,10 @@ import 'prismjs/themes/prism-okaidia.css'
 import './assets/tables.scss'
 
 import Vue from 'vue'
-import VuePrism from 'vue-prism'
 import App from './App'
 
 import VueParticles from './vue-particles'
+import VuePrism from 'vue-prism'
 Vue.use(VueParticles, VuePrism)
 
 Vue.config.productionTip = false
