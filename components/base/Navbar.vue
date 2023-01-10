@@ -13,7 +13,7 @@
         </div>
         <ul
           :class="[open ? 'flex' : 'hidden lg:flex']"
-          class="w-full h-auto flex flex-col flex-grow lg:items-right pb-4 lg:pb-0 lg:justify-end lg:flex-row origin-top duration-300 xl:space-x-2 space-y-3 lg:space-y-0"
+          class="w-full h-auto flex flex-col flex-grow lg:items-center pb-4 lg:pb-0 lg:justify-end lg:flex-row origin-top duration-300 xl:space-x-2 space-y-3 lg:space-y-0"
         >
           <NavLink name="Whitepaper" url="#" />
           <li class="relative group">
@@ -40,12 +40,11 @@
                 <li>
                   <a href="#" class="block py-2 px-4 text-sm text-gray-700 hover:bg-gray-100">Staking</a>
                 </li>
-                          <NavLink name="Exchanges" url="#" />
-          <NavLink name="Shop" url="#" />
-          <NavLink name="About" url="#" />
               </ul>
             </transition>
           </li>
+          <NavLink name="Shop" url="#" />
+          <NavLink name="About" url="#" />
         </ul>
       </div>
       <div :class="[open ? 'flex' : 'hidden lg:flex']" class="space-x-3">
