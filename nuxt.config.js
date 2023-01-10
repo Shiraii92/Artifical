@@ -1,4 +1,9 @@
 export default {
+  module.exports = {
+  plugins: [
+    { src: '~/plugins/vue-particles', ssr: false }
+  ]
+  },
   head: {
     title: 'NEFA',
     htmlAttrs: {
@@ -17,7 +22,6 @@ export default {
         href: 'https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap',
       },
     ],
-  },
   css: ['@/assets/css/main.css', 'aos/dist/aos.css'],
   plugins: ['~/plugins/smooth-scroll.js', '~/plugins/mdi.js'],
   components: true,
@@ -26,13 +30,14 @@ export default {
   build: {
     postcss: {
       plugins: {
-        src:"~plugins/vue-particles",ssr:false,
         tailwindcss: {},
         autoprefixer: {},
       },
     },
   },
+  
   /**
   buildDir: 'nuxt-dist',
    */
+}
 }
