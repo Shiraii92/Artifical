@@ -4,23 +4,18 @@
     <section id="hero" class="md:justify-end flex flex-col justify-center pt-20 bg-gradient-to-bl from brand to-yellow-500 h-screen pb-8 lg:overflow-hidden relative">
       <BaseSection>
         <div class="col-span-12 lg:col-span-9 mt-12 xl:mt-10 space-y-4 sm:space-y-6 px-6 text-center sm:text-left">
-          <span data-aos="fade-right" data-aos-once="true" class="text-base text-gradient font-semibold uppercase"
+          <span class="text-base text-gradient font-semibold uppercase"
             >Join us Today</span
           >
           <h1
-            data-aos="fade-right"
-            data-aos-once="true"
             class="text-[2.5rem] sm:text-5xl xl:text-6xl font-bold leading-tight capitalize sm:pr-8 xl:pr-10"
           >
             The World's <span class="text-header-gradient">First AI supported</span>  Telegram Bot
           </h1>
-          <p data-aos="fade-down" data-aos-once="true" data-aos-delay="300" class="paragraph hidden sm:block">
+          <p  class="paragraph hidden sm:block">
             <b>J</b>ust <b>A</b> <b>R</b>ather <b>V</b>ery <b>I</b>ntelligent <b>S</b>ystem
           </p>
           <div 
-            data-aos="fade-down" 
-            data-aos-once="true" 
-            data-aos-delay="300"
             class="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4 mt-2"
           >
           <div class="flex justify-start space-x-1 socials mt-6 pb-7 text-dark">
@@ -45,9 +40,6 @@
           </div>
           </div>
             <Button type="button"
-              data-aos="fade-down" 
-              data-aos-once="true" 
-              data-aos-delay="300"
               class="w-auto max-w-[25rem] inline-flex items-center justify-between text-dark border-dark rounded-full text-sm hover:text-gray-200 hover:bg-dark hover:cursor-copy overflow-hidden p-1 pr-2 vorder-2 contract"
             >
               <span class="sr-only">Click to copy ETH address</span>
