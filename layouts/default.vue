@@ -8,7 +8,6 @@
 
       <main class="text-neutral-800">
         <Nuxt />
-        
       </main>
 
       <BaseFooter />
