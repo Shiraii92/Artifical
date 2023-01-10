@@ -1,7 +1,7 @@
 <template>
   <div class="w-full">
     <!-- Hero section -->
-    <section id="hero" class="md:justify-end flex flex-col pt-0 bg-gradient-to-bl h-screen pb-0 lg:overflow-hidden relative">
+    <section id="hero" class="md:justify-end flex pt-0 bg-gradient-to-bl h-screen pb-0 lg:overflow-hidden relative">
       <BaseSection>
         <div class="col-span-12 lg:col-span-8 mt-10 xl:mt-10 space-y-4 sm:space-y-4 px-0 text-center sm:text-left">
           <span class="text-base text-gradient font-semibold uppercase"
