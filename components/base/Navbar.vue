@@ -13,7 +13,7 @@
         </div>
         <ul
           :class="[open ? 'flex' : 'hidden lg:flex']"
-          class="w-full h-auto flex flex-col flex-grow lg:items-center pb-4 lg:pb-0 lg:justify-end lg:flex-row origin-top duration-300 xl:space-x-2 space-y-3 lg:space-y-0"
+          class="w-full h-auto flex flex-col flex-grow lg:items-center pb-4 lg:pb-0 lg:justify-end lg:flex-row origin-top duration-1000 xl:space-x-2 space-y-3 lg:space-y-0"
         >
           <NavLink name="Whitepaper" url="#" />
           <li class="relative group">
