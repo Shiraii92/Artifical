@@ -18,7 +18,7 @@
           <div 
             class="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4 mt-2"
           >
-          <div class="flex justify-start space-x-1 socials mt-6 pb-7 text-dark">
+          <div class="flex justify-start space-x-6 socials mt-1 pb-1 text-dark">
             <a href="https://t.me/beeperc" target="_blank" rel="noopener noreferrer">
               <span class="sr-only">Telegram</span>
               <svg fill="currentColor" viewBox="0 0 24 24" class="h-6 w-6 fill-current" aria-hidden="true">
