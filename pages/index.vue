@@ -60,9 +60,9 @@
             />
           </div>
 <vue-particles
-        color="#ffffff"
+        color="#000000"
         :particleOpacity="0.7"
-        linesColor="#ffffff"
+        linesColor="#000000"
         :particlesNumber="80"
         shapeType="circle"
         :particleSize="5"
