@@ -63,7 +63,8 @@
     </section>
 
     <!-- Crypto statistic section -->
-    
+    <section>
+    </section>
 
     <!-- Buy and trade section -->
     <section class="w-full my-24">
