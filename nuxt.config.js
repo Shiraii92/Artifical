@@ -1,9 +1,4 @@
 export default {
-  module.exports = {
-  plugins: [
-    { src: '~/plugins/vue-particles', ssr: false }
-  ]
-  },
   head: {
     title: 'NEFA',
     htmlAttrs: {
@@ -23,7 +18,10 @@ export default {
       },
     ],
   css: ['@/assets/css/main.css', 'aos/dist/aos.css'],
-  plugins: ['~/plugins/smooth-scroll.js', '~/plugins/mdi.js'],
+  
+  plugins: ['~/plugins/smooth-scroll.js', '~/plugins/mdi.js',
+            { src: '~/plugins/vue-particles', ssr: false }
+  ],
   components: true,
   buildModules: ['@nuxtjs/eslint-module', '@nuxt/postcss8'],
   modules: [],
