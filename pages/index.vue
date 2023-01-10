@@ -18,9 +18,6 @@
             <b>J</b>ust <b>A</b> <b>R</b>ather <b>V</b>ery <b>I</b>ntelligent <b>S</b>ystem
           </p>
           <div
-            data-aos="fade-up"
-            data-aos-once="true"
-            data-aos-delay="700"
             class="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4 mt-2"
           >
           <div class="flex justify-start space-x-6 socials mt-6 pb-7 text-dark">
