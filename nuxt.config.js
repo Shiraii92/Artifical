@@ -20,7 +20,7 @@ export default {
   css: ['@/assets/css/main.css', 'aos/dist/aos.css'],
   
   plugins: ['~/plugins/smooth-scroll.js', '~/plugins/mdi.js',
-            { src: '~/plugins/vue-particles', ssr: false }
+            { src: '~/plugins/vue-particles', ssr: true }
   ],
   components: true,
   buildModules: ['@nuxtjs/eslint-module', '@nuxt/postcss8'],
