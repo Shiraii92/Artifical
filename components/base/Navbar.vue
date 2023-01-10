@@ -49,7 +49,7 @@
       </div>
       <div :class="[open ? 'flex' : 'hidden lg:flex']" class="space-x-3">
 
-        <base-button class="bg-gradient-to-r from-[#468ef9] to-[#0c66ee] text-white">
+        <base-button class="">
           Buy
         </base-button>
       </div>
