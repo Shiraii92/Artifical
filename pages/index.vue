@@ -68,7 +68,7 @@
     <section class="w-full mt-30">
       <BaseSection>
         <LandingBuyTradeImage class="sm:hidden mb-8" />
-        <div data-aos="fade-right" class="col-span-12 lg:col-span-6 mt-4 xl:mt-20 space-y-6 px-4">
+        <div data-aos="fade-right" class="col-span-12 lg:col-span-6 mt-14 xl:mt-20 space-y-6 px-4">
           <h2 class="text-4xl font-semibold sm:pr-8 xl:pr-12">
             Buy & trade on the <br class="hidden sm:block" />
             original crypto exchange.
