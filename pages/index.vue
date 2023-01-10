@@ -12,7 +12,7 @@
             data-aos-once="true"
             class="text-[2.5rem] sm:text-5xl xl:text-6xl font-bold leading-tight capitalize sm:pr-8 xl:pr-10"
           >
-            The World's <span class="text-header-gradient">First AI</span> backed Telegram Bot
+            The World's <span class="text-header-gradient">First AI supported</span>  Telegram Bot
           </h1>
           <p data-aos="fade-down" data-aos-once="true" data-aos-delay="300" class="paragraph hidden sm:block">
             <b>J</b>ust <b>A</b> <b>R</b>ather <b>V</b>ery <b>I</b>ntelligent <b>S</b>ystem
