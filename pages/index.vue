@@ -59,7 +59,6 @@
               alt=""
             />
           </div>
-<no-ssr>
 <vue-particles
         color="#000000"
         :particleOpacity="0.7"
@@ -78,7 +77,6 @@
         clickMode="push"
       >
       </vue-particles>
-      </no-ssr>
         </div>
       </BaseSection>
     </section>
