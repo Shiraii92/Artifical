@@ -1,5 +1,6 @@
 <template>
-  <div class="w-full">
+  <div id="app"
+  class="w-full">
     <!-- Hero section -->
     <section id="hero" class="md:justify-end flex flex-col justify-center pt-20 pb-8 lg:overflow-hidden relative mb-20">
       <BaseSection>
@@ -101,7 +102,7 @@
 <script>
 import aosMixin from '@/mixins/aos'
 export default {
-  name: 'App',
+  name: 'app',
   mixins: [aosMixin],
   data() {
     return {
