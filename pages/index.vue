@@ -15,7 +15,7 @@
             The World's <span class="text-header-gradient">First AI</span> backed Telegram Bot
           </h1>
           <p data-aos="fade-down" data-aos-once="true" data-aos-delay="300" class="paragraph hidden sm:block">
-            <b>J</b>ust <b>A</b><b>R</b>ather<b>V</b>ery <b>I</b>ntelligent <b>S</b>ystem
+            <b>J</b>ust <b>A</b> <b>R</b>ather <b>V</b>ery <b>I</b>ntelligent <b>S</b>ystem
           </p>
           <div
             data-aos="fade-up"
