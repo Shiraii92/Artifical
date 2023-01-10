@@ -3,7 +3,7 @@
     <!-- Hero section -->
     <section id="hero" class="md:justify-end flex flex-col justify-center pt-20 bg-gradient-to-bl from brand to-yellow-500 h-screen pb-8 lg:overflow-hidden relative">
       <BaseSection>
-        <div class="col-span-12 lg:col-span-6 mt-12 xl:mt-10 space-y-4 sm:space-y-6 px-6 text-center sm:text-left">
+        <div class="max-w-7x1 w-full mx-auto px-4 sm:px-8 text-left font-brand">
           <span data-aos="fade-right" data-aos-once="true" class="text-base text-gradient font-semibold uppercase"
             >Join us Today</span
           >
