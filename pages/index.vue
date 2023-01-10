@@ -65,7 +65,7 @@
 
 
     <!-- Buy and trade section -->
-    <section class="w-full my-24">
+    <section class="w-full my-30">
       <BaseSection>
         <LandingBuyTradeImage class="sm:hidden mb-8" />
         <div data-aos="fade-right" class="col-span-12 lg:col-span-6 mt-4 xl:mt-20 space-y-6 px-4">
