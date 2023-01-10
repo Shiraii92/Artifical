@@ -13,7 +13,7 @@
         </div>
         <ul
           :class="[open ? 'flex' : 'hidden lg:flex']"
-          class="navbar-nav mr-auto w-full h-auto flex flex-col flex-grow lg:items-center pb-4 lg:pb-0 lg:justify-end lg:flex-row origin-top duration-300 xl:space-x-2 space-y-3 lg:space-y-0"
+          class="w-full h-auto flex flex-col flex-grow lg:items-center pb-4 lg:pb-0 lg:justify-end lg:flex-row origin-top duration-300 xl:space-x-2 space-y-3 lg:space-y-0"
         >
           <NavLink name="Whitepaper" url="#" />
           <li class="relative group">
@@ -47,7 +47,7 @@
           <NavLink name="About" url="#" />
         </ul>
       </div>
-      <div :class="[open]" class="space-x-3">
+      <div :class="[open ? 'flex' : 'hidden lg:flex']" class="space-x-3">
 
         <base-button class="px-8 xl:px-10 py-3 mt-2 bg-gradient-to-r from-[#468ef9] to-[#0c66ee] text-white">
           Buy
