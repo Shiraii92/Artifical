@@ -1,7 +1,7 @@
 <template>
   <div class="w-full">
     <!-- Hero section -->
-    <section id="hero" class="md:justify-end flex flex-col justify-center pt-20 bg-gradient-to-bl from brand to-yellow-500 pb-8 lg:overflow-hidden relative">
+    <section id="hero" class="md:justify-end flex flex-col justify-center pt-20 pb-8 lg:overflow-hidden relative">
       <BaseSection>
         <div class="col-span-12 lg:col-span-8 mt-10 xl:mt-10 space-y-4 sm:space-y-4 px-1 text-center sm:text-left">
           <span class="text-base text-gradient font-semibold uppercase"
@@ -65,7 +65,7 @@
 
 
     <!-- Buy and trade section -->
-    <section class="w-full my-24">
+    <section  class="md:justify-end flex flex-col justify-center pt-20 pb-8 lg:overflow-hidden relative" class="w-full my-24">
       <BaseSection>
         <LandingBuyTradeImage class="sm:hidden mb-8" />
         <div data-aos="fade-right" class="col-span-12 lg:col-span-6 mt-4 xl:mt-20 space-y-6 px-4">
