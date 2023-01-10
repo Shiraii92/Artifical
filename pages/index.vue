@@ -53,7 +53,7 @@
             <img
               data-aos="fade-up"
               data-aos-once="true"
-              :src="require('~/assets/img/hero-image.webp')"
+              :src="require('~/assets/img/logo/beep.png')"
               class="-mt-4"
               alt=""
             />
