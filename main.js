@@ -5,7 +5,7 @@ import './assets/tables.scss'
 
 import Vue from 'vue'
 import VueParticles from './vue-particles'
-import App from './Index'
+import App from './App'
 
 
 Vue.use(VueParticles)
@@ -14,8 +14,8 @@ Vue.config.productionTip = false
 
 /* eslint-disable no-new */
 new Vue({
-  el: '#IndexPage',
+  el: '#App',
   components: { App },
-  template: '<Index/>'
+  template: '<App/>'
   
 })
