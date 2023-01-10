@@ -101,7 +101,7 @@
 <script>
 import aosMixin from '@/mixins/aos'
 export default {
-  name: 'IndexPage',
+  name: 'App',
   mixins: [aosMixin],
   data() {
     return {
