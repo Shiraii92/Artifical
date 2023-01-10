@@ -5,17 +5,17 @@
       <BaseSection>
         <div class="col-span-12 lg:col-span-6 mt-12 xl:mt-10 space-y-4 sm:space-y-6 px-6 text-center sm:text-left">
           <span data-aos="fade-right" data-aos-once="true" class="text-base text-gradient font-semibold uppercase"
-            >Sign Up Today</span
+            >Join us Today</span
           >
           <h1
             data-aos="fade-right"
             data-aos-once="true"
             class="text-[2.5rem] sm:text-5xl xl:text-6xl font-bold leading-tight capitalize sm:pr-8 xl:pr-10"
           >
-            The World's <span class="text-header-gradient">Fastest Growing</span> Crypto Web App
+            The World's <span class="text-header-gradient">First AI</span> backed Telegram Bot
           </h1>
           <p data-aos="fade-down" data-aos-once="true" data-aos-delay="300" class="paragraph hidden sm:block">
-            Buy and sell 200+ cryptocurrencies with 20+ flat currencies using bank transfers or your credit/debit card.
+            <b>J</b>ust <b>A</b><b>R</b>ather<b>V</b>ery <b>I</b>ntelligent <b>S</b>ystem
           </p>
           <div
             data-aos="fade-up"
