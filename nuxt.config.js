@@ -17,11 +17,9 @@ export default {
         href: 'https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap',
       },
     ],
+  },
   css: ['@/assets/css/main.css', 'aos/dist/aos.css'],
-  
-  plugins: ['~/plugins/smooth-scroll.js', '~/plugins/mdi.js',
-  
-  ],
+  plugins: ['~/plugins/smooth-scroll.js', '~/plugins/mdi.js'],
   components: true,
   buildModules: ['@nuxtjs/eslint-module', '@nuxt/postcss8'],
   modules: [],
@@ -33,9 +31,7 @@ export default {
       },
     },
   },
-  
   /**
   buildDir: 'nuxt-dist',
    */
-}
 }
