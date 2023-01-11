@@ -59,24 +59,6 @@
               alt=""
             />
           </div>
-<vue-particles
-        color="#000000"
-        :particleOpacity="0.7"
-        linesColor="#000000"
-        :particlesNumber="80"
-        shapeType="circle"
-        :particleSize="5"
-        :linesWidth="2"
-        :lineLinked="true"
-        :lineOpacity="0.4"
-        :linesDistance="150"
-        :moveSpeed="3"
-        :hoverEffect="true"
-        hoverMode="grab"
-        :clickEffect="true"
-        clickMode="push"
-      >
-      </vue-particles>
         </div>
       </BaseSection>
     </section>
